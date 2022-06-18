@@ -1,1 +1,1 @@
-CV'mizin bulunduğu site.
+Kendi CV'm olarak kullanabileceğim bir websitesi.
